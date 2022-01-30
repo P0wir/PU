@@ -1,0 +1,31 @@
+diary("powirski.txt")
+2+12
+a=3
+b=4
+c=5
+a+b
+y=log2(32)
+x= log(1/81)/log(3)
+z= log(8)/log(4)
+d= (log(3/5)/log(3))+(log(25/9)/log(9))
+e= log(a^5*b^9/c^6)/log(4)
+f= log(sqrt(2)*(sqrt(8)*sqrt(20)))
+
+//stopnie na radiany
+
+s1= 105*%pi/180
+s2= 180*%pi/180
+s3= 165*%pi/180
+s4= 710*%pi/180
+
+// zamiana radianow na stopnie
+
+s3=7*%pi/12 * 180/%pi
+s4=4*%pi/3 * 180/%pi
+
+10^-log10(8)
+10^1-log10(2)
+asind(-sqrt(3)/2)
+asind(1/2)
+sind(asin(1/2))
+tan(%pi/2)
